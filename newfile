@@ -1,2 +1,8 @@
 This is second file
 I am doing editing.
+Create a New Branch on GitHub
+On GitHub, access your repository and click the "master" branch button.
+There you can create a new Branch. Type in a descriptive name, and click Create branch
+The branch should now be created and active. You can confirm which branch you are working on by looking at the branch button. See that it now says "html-skeleton" instead of "main"?
+
+
